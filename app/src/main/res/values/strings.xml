@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">navigation-drawer</string>
+    <string name="drawer_title_home">HOME</string>
+    <string name="drawer_title_settings">SETTINGS</string>
+    <string name="screen_title_about">ABOUT</string>
+    <string name="screen_title_rate">RATE US</string>
+    <string name="search_hint">Search...</string>
+    <string name="cd_drawer">Open drawer</string>
+    <string name="cd_trailing_icon">Search</string>
+    <string name="version">v1.0.0</string>
+</resources>
